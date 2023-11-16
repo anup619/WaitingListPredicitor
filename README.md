@@ -1,4 +1,4 @@
-# Diwali Travel Project
+# Waiting List Predictor Project
 
 ## Overview
 
