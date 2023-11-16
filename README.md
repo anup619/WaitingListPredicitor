@@ -28,7 +28,7 @@ This project aims to analyze and predict the waiting list trend for train ticket
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/anup619/WaitingListPredicitor.git
+   git clone https://github.com/anup619/WaitingListPredictor.git
 
    ```
 
